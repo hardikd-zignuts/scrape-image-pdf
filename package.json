@@ -12,7 +12,9 @@
   "dependencies": {
     "node-native-ocr": "^0.3.9",
     "ocrad.js": "^0.0.1",
+    "pdf-export-images": "^1.2.0",
     "pdf-extract": "^1.0.11",
+    "pdf-img-convert": "^1.2.1",
     "pdf-parse": "^1.1.1",
     "pdfjs": "^2.5.3",
     "pdfjs-dist": "^4.3.136",
